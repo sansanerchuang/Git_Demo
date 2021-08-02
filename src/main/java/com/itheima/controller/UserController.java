@@ -17,4 +17,10 @@ public class UserController {
     public String Query() {
         return "Query Success";
     }
+
+    //    登出功能：
+    public String loginOut() {
+        return "Exit Success!";
+    }
+
 }
