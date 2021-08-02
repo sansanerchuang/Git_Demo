@@ -17,4 +17,8 @@ public class UserController {
     public String Query() {
         return "Query Success";
     }
+    //    修改功能：
+    public String Upadate() {
+        return "Query Success";
+    }
 }
